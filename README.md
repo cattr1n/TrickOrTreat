@@ -27,3 +27,5 @@
 * ` Block Discord (Prevents user from opening Discord in browser/app)`
 * ` Retrieving the tokens from 4 different Discord clients and 11 browsers`
 * ` Getting the user's information (Discord Tokens, Username, ID, Creation Date, Email, Phone Number, Status, IP Address, Computer Name, Location)`
+
+
